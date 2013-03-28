@@ -23,7 +23,7 @@ Currently only a widget that shows the number of unread items in your [Tiny Tiny
 
 = How does this work? Do I need to login? =
 
-Tiny Tiny RSS allows you to make some API calls without the need to login: [getUnread](http://tt-rss.org/redmine/projects/tt-rss/wiki/FrequentlyAskedQuestions#I-need-to-get-the-number-of-unread-articles-in-the-most-simple-way) is one of Tiny Tiny RSS installation.them.
+Tiny Tiny RSS allows you to make some API calls without the need to login: [getUnread](http://tt-rss.org/redmine/projects/tt-rss/wiki/FrequentlyAskedQuestions#I-need-to-get-the-number-of-unread-articles-in-the-most-simple-way) is one of them.
 
 == Upgrade Notice ==
 

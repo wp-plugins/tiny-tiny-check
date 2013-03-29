@@ -3,7 +3,7 @@ Contributors: mitakas
 Tags: tt-rss, tiny tiny rss
 Requires at Least: 2.8
 Tested Up To: 3.5.1
-Stable tag: 0.1
+Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,6 +28,12 @@ Tiny Tiny RSS allows you to make some API calls without the need to login: [getU
 == Upgrade Notice ==
 
 == Changelog ==
+
+= 0.2 =
+
+* Add German translation
+* Automatically add trailing slash in the URL
+* Clarify documentation
 
 = 0.1 =
 

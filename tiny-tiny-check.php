@@ -3,7 +3,7 @@
 Plugin Name: Tiny Tiny Check
 Plugin URI: http://mitakas.com/blog/tiny-tiny-check
 Description: Show number of unread items in your Tiny Tiny RSS installation.
-Version: 0.1
+Version: 0.2
 Text-Domain: tiny-tiny-check
 Author: Dimitar Dimitrov
 Author URI: http://mitakas.com/blog/about
@@ -82,5 +82,5 @@ class Tiny_Tiny_Check extends WP_Widget {
     }
 
 }
-add_action( 'widgets_init', function() { register_widget( 'Tiny_Tiny_Check' ); } );
-load_plugin_textdomain( 'tiny-tiny-check', false, dirname( plugin_basename( __FILE__ ) ) );
+add_action( 'widgets_init', function() { register_widget( 'Tiny_Tiny_Check' ); });
+load_plugin_textdomain( 'tiny-tiny-check', false, basename( dirname( __FILE__ ) ) );

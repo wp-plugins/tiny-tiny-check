@@ -1,0 +1,64 @@
+# Copyright (C) 2013 Tiny Tiny Check
+# This file is distributed under the same license as the Tiny Tiny Check package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tiny Tiny Check 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/tiny-tiny-check\n"
+"POT-Creation-Date: 2013-03-29 01:30:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-03-29 02:35+0100\n"
+"Last-Translator: Dimitar Dimitrov <admin@mitakas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: tiny-tiny-check.php:17
+msgid "The number of unread items in your Tiny Tiny RSS installation"
+msgstr "Anzahl der ungelesenen Artikel in der Tiny Tiny RSS Installation"
+
+#. #-#-#-#-#  plugin.pot (Tiny Tiny Check 0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: tiny-tiny-check.php:18
+msgid "Tiny Tiny Check"
+msgstr "Tiny Tiny Check"
+
+#: tiny-tiny-check.php:40
+msgid "User not found"
+msgstr "Benutzer nicht gefunden"
+
+#: tiny-tiny-check.php:42
+msgid "Problem connecting, check your configuration"
+msgstr "Verbindungsproblem, überprüfe die Einstellungen"
+
+#: tiny-tiny-check.php:45
+msgid "No unread items"
+msgstr "Keine ungelesene Artikel"
+
+#: tiny-tiny-check.php:70
+msgid "Title:"
+msgstr "Titel"
+
+#: tiny-tiny-check.php:74
+msgid "Tiny Tiny RSS installation:"
+msgstr "Tiny Tiny RSS Installation"
+
+#: tiny-tiny-check.php:78
+msgid "Username:"
+msgstr "Benutzername:"
+
+#. Plugin URI of the plugin/theme
+msgid "http://mitakas.com/blog/tiny-tiny-check"
+msgstr "http://mitakas.com/blog/tiny-tiny-check"
+
+#. Description of the plugin/theme
+msgid "Show number of unread items in your Tiny Tiny RSS installation."
+msgstr "Zeige die Anzahl der ungelesenen Artikel in der Tiny Tiny RSS Installation an"
+
+#. Author of the plugin/theme
+msgid "Dimitar Dimitrov"
+msgstr "Dimitar Dimitrov"
+
+#. Author URI of the plugin/theme
+msgid "http://mitakas.com/blog/about"
+msgstr "http://mitakas.com/blog/about"
+

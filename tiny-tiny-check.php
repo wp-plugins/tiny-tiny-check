@@ -82,5 +82,5 @@ class Tiny_Tiny_Check extends WP_Widget {
     }
 
 }
-add_action( 'widgets_init', function() { register_widget( 'Tiny_Tiny_Check' ); });
-load_plugin_textdomain( 'tiny-tiny-check', false, basename( dirname( __FILE__ ) ) );
+add_action( 'widgets_init', function() { register_widget( 'Tiny_Tiny_Check' ); } );
+load_plugin_textdomain( 'tiny-tiny-check', false, basename( dirname( __FILE__ ) ) . '/languages' );

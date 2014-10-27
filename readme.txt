@@ -3,7 +3,7 @@ Contributors: mitakas
 Tags: tt-rss, tiny tiny rss
 Requires at Least: 2.8
 Tested Up To: 4.0
-Stable tag: 0.2
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,7 +29,9 @@ Tiny Tiny RSS allows you to make some API calls without the need to login: [getU
 
 For now you have to type in the protocol, e.g. "http://example.com/tt-rss/" or "https://example.com/tt-rss/".
 
-== Upgrade Notice ==
+== Screenshots ==
+
+1. Adding the widget in the Widgets page.
 
 == Changelog ==
 

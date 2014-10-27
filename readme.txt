@@ -2,7 +2,7 @@
 Contributors: mitakas
 Tags: tt-rss, tiny tiny rss
 Requires at Least: 2.8
-Tested Up To: 3.5.1
+Tested Up To: 4.0
 Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

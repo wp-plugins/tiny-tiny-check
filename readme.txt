@@ -25,6 +25,10 @@ Currently only a widget that shows the number of unread items in your [Tiny Tiny
 
 Tiny Tiny RSS allows you to make some API calls without the need to login: [getUnread](http://tt-rss.org/redmine/projects/tt-rss/wiki/FrequentlyAskedQuestions#I-need-to-get-the-number-of-unread-articles-in-the-most-simple-way) is one of them.
 
+= How do I input the URL? =
+
+For now you have to type in the protocol, e.g. "http://example.com/tt-rss/" or "https://example.com/tt-rss/".
+
 == Upgrade Notice ==
 
 == Changelog ==
